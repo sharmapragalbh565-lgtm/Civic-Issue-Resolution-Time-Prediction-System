@@ -1,0 +1,501 @@
+Severity_Score,Complaint_Category,Historical_Frequency,Required_Resources,Estimated_Resolution_Time_Days
+4.4,Water Supply,93,Heavy Machinery,16.34
+6.4,Water Supply,83,Workers,12.52
+1.9,Garbage Collection,75,Engineers,10.16
+7.4,Water Supply,22,Workers,14.22
+1.5,Road Repair,88,Technicians,10.71
+2.6,Electricity,21,Technicians,8.04
+6.6,Electricity,58,Workers,9.57
+3.6,Garbage Collection,59,Technicians,10.25
+4.6,Garbage Collection,92,Engineers,14.94
+4.4,Drainage,64,Heavy Machinery,15.26
+5.2,Road Repair,51,Heavy Machinery,18.3
+1.1,Drainage,89,Engineers,15.93
+9.7,Garbage Collection,9,Engineers,19.56
+6.5,Road Repair,8,Engineers,15.95
+1.3,Water Supply,78,Technicians,3.46
+7.8,Garbage Collection,6,Heavy Machinery,15.18
+2.9,Water Supply,4,Workers,4.99
+9.3,Water Supply,72,Heavy Machinery,23.31
+6.1,Garbage Collection,62,Workers,10.23
+3.4,Road Repair,53,Workers,9.58
+6.3,Drainage,89,Technicians,17.59
+2.3,Road Repair,15,Technicians,5.67
+2.5,Water Supply,89,Workers,9.36
+7.6,Garbage Collection,33,Heavy Machinery,18.83
+6.5,Road Repair,41,Workers,15.01
+4.3,Electricity,62,Heavy Machinery,15.33
+3.9,Garbage Collection,99,Technicians,7.65
+6.1,Electricity,99,Engineers,20.38
+2.1,Water Supply,78,Technicians,7.99
+3.1,Garbage Collection,14,Workers,6.82
+5.4,Garbage Collection,9,Heavy Machinery,11.32
+5.0,Road Repair,51,Workers,15.72
+1.3,Electricity,52,Heavy Machinery,14.14
+2.3,Water Supply,15,Heavy Machinery,9.36
+7.8,Garbage Collection,36,Engineers,16.77
+7.3,Road Repair,28,Engineers,21.57
+9.4,Water Supply,45,Engineers,18.13
+5.1,Electricity,44,Workers,11.22
+4.7,Drainage,62,Heavy Machinery,19.89
+9.1,Road Repair,62,Engineers,25.1
+2.0,Water Supply,27,Workers,6.9
+8.7,Road Repair,70,Heavy Machinery,24.97
+5.6,Garbage Collection,9,Technicians,12.74
+3.4,Water Supply,24,Technicians,5.99
+9.5,Road Repair,32,Technicians,24.62
+4.3,Electricity,58,Workers,11.7
+9.7,Drainage,39,Engineers,18.66
+3.6,Road Repair,81,Heavy Machinery,18.4
+3.4,Garbage Collection,2,Workers,3.88
+3.5,Electricity,97,Technicians,12.11
+6.7,Water Supply,2,Engineers,8.15
+6.0,Electricity,68,Engineers,20.36
+1.7,Road Repair,56,Technicians,11.93
+4.3,Water Supply,98,Engineers,12.53
+6.7,Garbage Collection,11,Engineers,14.62
+2.4,Electricity,59,Workers,9.64
+2.7,Drainage,93,Workers,10.87
+3.0,Garbage Collection,90,Workers,10.72
+5.6,Garbage Collection,19,Heavy Machinery,11.91
+9.5,Road Repair,40,Heavy Machinery,24.71
+4.5,Garbage Collection,82,Workers,11.81
+7.6,Water Supply,50,Engineers,18.75
+9.3,Garbage Collection,94,Workers,16.59
+2.6,Garbage Collection,60,Workers,8.38
+3.3,Electricity,1,Engineers,10.52
+4.1,Garbage Collection,99,Heavy Machinery,16.66
+7.3,Electricity,80,Technicians,18.19
+1.8,Water Supply,72,Workers,8.73
+8.1,Road Repair,84,Workers,17.65
+9.5,Road Repair,25,Technicians,22.84
+1.0,Garbage Collection,82,Workers,1.0
+10.0,Water Supply,33,Workers,15.04
+1.2,Garbage Collection,14,Technicians,4.82
+6.8,Road Repair,7,Technicians,13.91
+7.5,Garbage Collection,33,Workers,14.17
+6.7,Electricity,22,Technicians,19.27
+3.2,Electricity,38,Engineers,11.68
+9.2,Drainage,27,Heavy Machinery,22.98
+8.2,Garbage Collection,30,Engineers,19.53
+8.8,Garbage Collection,61,Technicians,18.59
+5.5,Drainage,4,Workers,11.53
+2.6,Water Supply,92,Engineers,11.23
+5.2,Road Repair,46,Workers,14.65
+1.1,Garbage Collection,24,Workers,4.28
+4.0,Electricity,46,Technicians,9.4
+4.5,Garbage Collection,87,Heavy Machinery,16.65
+3.4,Road Repair,67,Heavy Machinery,17.88
+9.4,Water Supply,58,Technicians,14.51
+9.4,Drainage,46,Heavy Machinery,23.86
+9.9,Road Repair,66,Heavy Machinery,25.53
+3.3,Water Supply,2,Heavy Machinery,10.82
+2.2,Water Supply,48,Heavy Machinery,8.8
+6.0,Road Repair,42,Technicians,17.13
+8.8,Electricity,13,Technicians,16.88
+1.7,Water Supply,7,Heavy Machinery,9.77
+6.8,Garbage Collection,16,Engineers,14.01
+1.5,Electricity,87,Technicians,8.74
+4.9,Garbage Collection,63,Technicians,9.68
+1.3,Garbage Collection,25,Engineers,6.5
+3.3,Garbage Collection,42,Heavy Machinery,11.33
+8.4,Electricity,54,Workers,13.32
+8.5,Water Supply,60,Technicians,16.6
+2.9,Water Supply,5,Workers,7.02
+2.7,Drainage,94,Engineers,14.45
+5.9,Water Supply,55,Workers,11.39
+4.9,Electricity,58,Workers,11.28
+1.7,Water Supply,90,Heavy Machinery,9.51
+2.6,Water Supply,1,Technicians,7.27
+5.0,Water Supply,96,Engineers,18.83
+6.9,Road Repair,1,Workers,16.21
+9.6,Drainage,64,Engineers,27.84
+4.8,Drainage,76,Technicians,16.06
+6.1,Road Repair,51,Workers,16.23
+1.9,Garbage Collection,48,Technicians,8.99
+8.3,Road Repair,33,Heavy Machinery,27.33
+1.4,Drainage,69,Heavy Machinery,11.55
+9.0,Drainage,52,Heavy Machinery,25.98
+5.5,Garbage Collection,1,Heavy Machinery,9.43
+5.9,Drainage,4,Heavy Machinery,17.19
+9.5,Water Supply,92,Heavy Machinery,23.15
+6.3,Road Repair,91,Technicians,20.22
+6.2,Water Supply,33,Technicians,13.02
+5.1,Electricity,51,Heavy Machinery,17.09
+8.4,Water Supply,40,Engineers,19.87
+9.1,Road Repair,44,Heavy Machinery,23.08
+4.4,Electricity,35,Workers,8.95
+4.0,Drainage,90,Heavy Machinery,19.27
+1.2,Drainage,34,Technicians,5.57
+3.3,Drainage,7,Heavy Machinery,13.01
+6.7,Electricity,29,Engineers,15.11
+1.4,Drainage,89,Engineers,11.29
+2.6,Road Repair,73,Heavy Machinery,18.3
+6.1,Electricity,99,Heavy Machinery,20.06
+4.3,Garbage Collection,96,Workers,11.48
+4.1,Electricity,62,Technicians,8.18
+7.1,Drainage,23,Engineers,18.53
+7.8,Road Repair,30,Technicians,18.22
+8.4,Drainage,86,Technicians,21.76
+3.7,Drainage,19,Technicians,10.15
+9.6,Electricity,83,Technicians,20.29
+5.4,Electricity,16,Heavy Machinery,11.32
+4.0,Drainage,85,Engineers,15.36
+7.8,Electricity,23,Workers,14.16
+9.4,Garbage Collection,58,Workers,17.5
+1.5,Drainage,95,Heavy Machinery,17.63
+9.7,Drainage,9,Technicians,18.81
+7.9,Electricity,17,Technicians,13.83
+8.4,Garbage Collection,66,Workers,16.31
+1.7,Garbage Collection,37,Workers,5.29
+8.8,Drainage,86,Engineers,20.58
+8.3,Water Supply,71,Engineers,17.56
+8.0,Garbage Collection,54,Heavy Machinery,18.27
+7.3,Road Repair,74,Technicians,19.05
+5.2,Road Repair,58,Workers,15.69
+7.7,Water Supply,72,Technicians,15.8
+7.7,Drainage,77,Heavy Machinery,20.75
+3.1,Water Supply,63,Engineers,9.11
+5.8,Road Repair,6,Workers,13.91
+8.2,Water Supply,45,Workers,14.69
+9.9,Road Repair,36,Technicians,23.62
+6.0,Road Repair,20,Heavy Machinery,17.6
+10.0,Water Supply,54,Heavy Machinery,19.77
+6.3,Road Repair,16,Engineers,18.98
+9.6,Drainage,16,Technicians,18.62
+9.0,Drainage,76,Engineers,22.68
+2.5,Garbage Collection,36,Engineers,7.08
+5.2,Electricity,58,Heavy Machinery,15.19
+4.2,Electricity,64,Heavy Machinery,13.75
+5.1,Electricity,63,Engineers,11.97
+8.3,Garbage Collection,92,Engineers,20.77
+3.4,Road Repair,13,Engineers,11.11
+9.4,Water Supply,5,Technicians,18.01
+1.2,Road Repair,33,Engineers,11.23
+9.9,Garbage Collection,11,Technicians,18.45
+6.3,Electricity,63,Technicians,16.91
+6.1,Drainage,33,Technicians,13.05
+5.2,Drainage,99,Heavy Machinery,20.19
+5.8,Electricity,5,Heavy Machinery,13.98
+10.0,Water Supply,53,Workers,20.84
+7.8,Drainage,83,Workers,20.05
+3.2,Garbage Collection,78,Technicians,7.39
+3.5,Electricity,4,Heavy Machinery,9.89
+3.1,Electricity,32,Engineers,11.25
+5.3,Garbage Collection,3,Technicians,7.25
+5.7,Garbage Collection,12,Technicians,8.02
+4.8,Water Supply,85,Technicians,16.53
+6.8,Water Supply,75,Technicians,13.08
+1.1,Garbage Collection,38,Engineers,5.87
+6.5,Drainage,82,Workers,14.48
+9.1,Water Supply,52,Engineers,15.17
+5.9,Electricity,97,Heavy Machinery,18.73
+6.6,Electricity,51,Engineers,20.12
+7.3,Water Supply,29,Technicians,8.99
+5.1,Water Supply,34,Heavy Machinery,13.24
+6.6,Garbage Collection,66,Workers,15.45
+3.2,Water Supply,23,Heavy Machinery,7.07
+2.2,Drainage,95,Heavy Machinery,18.27
+2.6,Water Supply,4,Heavy Machinery,6.47
+4.1,Garbage Collection,67,Heavy Machinery,13.59
+9.8,Road Repair,61,Technicians,24.9
+2.7,Electricity,19,Heavy Machinery,9.99
+4.1,Electricity,22,Technicians,11.34
+1.8,Drainage,1,Technicians,1.46
+9.0,Electricity,49,Heavy Machinery,22.98
+5.5,Garbage Collection,45,Heavy Machinery,13.25
+5.3,Water Supply,86,Workers,11.7
+1.7,Road Repair,94,Heavy Machinery,15.49
+1.0,Water Supply,36,Engineers,4.18
+8.3,Water Supply,99,Heavy Machinery,20.34
+4.3,Drainage,86,Workers,12.6
+3.1,Water Supply,28,Technicians,4.8
+7.7,Electricity,14,Heavy Machinery,13.87
+2.3,Garbage Collection,7,Workers,5.53
+7.7,Garbage Collection,18,Technicians,13.39
+5.0,Garbage Collection,99,Heavy Machinery,14.71
+7.6,Garbage Collection,28,Heavy Machinery,16.35
+1.2,Garbage Collection,57,Heavy Machinery,5.53
+4.1,Garbage Collection,25,Workers,7.81
+7.1,Garbage Collection,67,Engineers,16.4
+6.3,Electricity,86,Workers,20.1
+6.3,Drainage,8,Workers,15.81
+4.4,Electricity,6,Engineers,15.87
+9.1,Road Repair,64,Workers,18.02
+9.9,Garbage Collection,33,Workers,18.38
+1.1,Water Supply,21,Heavy Machinery,5.78
+2.4,Electricity,75,Engineers,11.1
+1.8,Water Supply,94,Heavy Machinery,11.5
+4.7,Electricity,36,Heavy Machinery,13.19
+10.0,Electricity,6,Heavy Machinery,22.08
+8.8,Water Supply,6,Heavy Machinery,17.33
+9.8,Electricity,94,Workers,22.4
+9.4,Electricity,79,Engineers,21.09
+5.8,Garbage Collection,26,Workers,11.87
+2.7,Water Supply,68,Workers,5.93
+4.8,Road Repair,97,Workers,17.48
+7.4,Water Supply,14,Technicians,15.22
+3.6,Road Repair,37,Engineers,16.78
+3.9,Water Supply,3,Workers,6.02
+1.5,Water Supply,50,Technicians,8.88
+5.9,Water Supply,2,Heavy Machinery,9.06
+3.9,Garbage Collection,2,Heavy Machinery,14.73
+8.1,Electricity,95,Engineers,20.69
+9.4,Road Repair,62,Workers,21.08
+9.4,Electricity,75,Heavy Machinery,26.86
+9.4,Water Supply,76,Technicians,19.24
+7.5,Water Supply,60,Engineers,16.87
+8.6,Garbage Collection,72,Workers,17.56
+8.2,Road Repair,35,Workers,20.44
+2.5,Water Supply,5,Engineers,8.31
+9.2,Electricity,89,Heavy Machinery,21.67
+8.9,Electricity,89,Heavy Machinery,22.8
+7.4,Garbage Collection,32,Workers,16.51
+5.2,Electricity,38,Heavy Machinery,11.05
+6.2,Road Repair,17,Technicians,18.17
+9.1,Drainage,66,Technicians,21.73
+6.6,Road Repair,51,Engineers,20.64
+4.9,Electricity,67,Engineers,12.74
+2.3,Water Supply,15,Workers,6.49
+8.9,Drainage,33,Heavy Machinery,23.93
+8.1,Water Supply,38,Workers,14.21
+7.8,Drainage,27,Technicians,19.07
+8.9,Drainage,97,Workers,22.0
+1.9,Electricity,13,Engineers,7.96
+8.2,Garbage Collection,5,Heavy Machinery,14.59
+5.4,Drainage,68,Workers,16.43
+6.8,Electricity,36,Engineers,18.95
+5.9,Road Repair,43,Technicians,18.36
+9.6,Road Repair,38,Engineers,25.02
+3.0,Water Supply,23,Workers,6.96
+2.4,Road Repair,13,Engineers,12.14
+2.3,Electricity,82,Workers,9.14
+8.8,Road Repair,76,Engineers,25.09
+1.9,Drainage,68,Technicians,11.66
+4.4,Water Supply,9,Engineers,11.39
+4.8,Water Supply,29,Workers,7.4
+2.7,Garbage Collection,87,Heavy Machinery,11.41
+9.3,Drainage,63,Heavy Machinery,21.99
+6.5,Drainage,47,Technicians,13.64
+1.5,Road Repair,9,Workers,8.93
+6.4,Drainage,35,Technicians,13.09
+4.6,Road Repair,25,Workers,10.04
+9.3,Drainage,43,Engineers,16.53
+1.3,Garbage Collection,51,Technicians,5.44
+2.5,Garbage Collection,88,Heavy Machinery,9.09
+3.8,Road Repair,29,Heavy Machinery,19.85
+1.1,Drainage,85,Workers,11.15
+5.6,Drainage,81,Workers,13.85
+10.0,Drainage,49,Heavy Machinery,24.12
+3.7,Electricity,96,Engineers,15.38
+2.9,Electricity,83,Workers,10.45
+4.1,Garbage Collection,30,Workers,12.79
+1.6,Electricity,78,Workers,6.09
+7.4,Drainage,66,Engineers,17.33
+5.5,Drainage,51,Heavy Machinery,23.39
+2.4,Garbage Collection,1,Workers,2.51
+7.8,Garbage Collection,10,Workers,11.76
+3.4,Electricity,34,Heavy Machinery,12.08
+2.4,Drainage,50,Workers,8.96
+8.8,Water Supply,8,Heavy Machinery,19.04
+1.2,Electricity,54,Heavy Machinery,8.24
+4.1,Road Repair,67,Heavy Machinery,18.79
+7.5,Drainage,35,Engineers,20.96
+3.2,Water Supply,78,Engineers,14.2
+9.7,Drainage,37,Technicians,20.24
+2.3,Electricity,14,Heavy Machinery,11.34
+1.1,Garbage Collection,7,Technicians,1.38
+7.6,Electricity,85,Workers,14.31
+9.0,Water Supply,47,Heavy Machinery,23.38
+6.6,Water Supply,11,Technicians,9.04
+6.3,Water Supply,12,Workers,7.23
+8.5,Road Repair,37,Workers,22.09
+4.9,Garbage Collection,44,Heavy Machinery,9.21
+3.0,Garbage Collection,86,Technicians,8.09
+6.1,Water Supply,59,Workers,12.61
+9.1,Electricity,96,Heavy Machinery,23.72
+3.4,Electricity,40,Technicians,8.99
+7.3,Drainage,25,Engineers,16.95
+8.5,Electricity,4,Workers,14.11
+2.2,Drainage,29,Workers,6.67
+1.2,Road Repair,18,Workers,6.14
+5.8,Garbage Collection,42,Heavy Machinery,11.54
+6.0,Electricity,25,Engineers,16.35
+5.5,Road Repair,76,Heavy Machinery,21.56
+6.4,Garbage Collection,53,Workers,14.22
+2.6,Garbage Collection,45,Workers,5.5
+7.9,Road Repair,46,Technicians,21.44
+1.4,Drainage,54,Workers,7.1
+6.4,Road Repair,26,Technicians,16.3
+1.6,Water Supply,11,Workers,1.1
+7.5,Water Supply,39,Technicians,10.5
+6.5,Water Supply,54,Workers,16.61
+9.4,Water Supply,69,Workers,16.94
+5.4,Road Repair,36,Engineers,15.44
+8.6,Electricity,81,Heavy Machinery,23.24
+5.5,Electricity,98,Workers,14.19
+4.1,Road Repair,40,Heavy Machinery,21.75
+7.6,Road Repair,89,Heavy Machinery,26.39
+5.1,Water Supply,35,Heavy Machinery,16.6
+8.4,Electricity,44,Heavy Machinery,20.18
+8.3,Drainage,49,Heavy Machinery,20.58
+2.2,Drainage,74,Workers,10.44
+1.8,Water Supply,80,Workers,10.59
+8.9,Electricity,8,Workers,18.32
+7.5,Garbage Collection,80,Engineers,19.63
+8.6,Garbage Collection,25,Heavy Machinery,18.68
+7.2,Electricity,26,Workers,15.57
+1.4,Water Supply,10,Technicians,1.0
+3.8,Electricity,79,Technicians,16.86
+7.3,Electricity,9,Workers,13.01
+4.8,Road Repair,93,Engineers,19.54
+5.3,Water Supply,94,Technicians,12.52
+5.7,Road Repair,17,Engineers,16.07
+6.9,Garbage Collection,24,Heavy Machinery,14.68
+1.7,Water Supply,37,Technicians,3.78
+5.8,Drainage,90,Workers,15.68
+3.8,Water Supply,4,Technicians,6.17
+8.1,Electricity,25,Workers,15.69
+4.8,Electricity,66,Workers,15.93
+1.2,Road Repair,42,Heavy Machinery,12.02
+9.4,Road Repair,39,Technicians,18.68
+1.1,Drainage,29,Engineers,8.07
+5.3,Drainage,57,Workers,16.62
+6.2,Drainage,10,Workers,12.27
+5.7,Water Supply,65,Engineers,13.47
+3.1,Water Supply,3,Technicians,1.08
+8.7,Road Repair,18,Workers,18.35
+3.1,Water Supply,25,Heavy Machinery,10.82
+1.4,Road Repair,15,Engineers,10.35
+4.5,Road Repair,88,Engineers,17.85
+6.3,Electricity,39,Engineers,18.0
+8.9,Garbage Collection,46,Heavy Machinery,21.31
+9.9,Garbage Collection,71,Workers,18.82
+9.9,Garbage Collection,59,Engineers,23.08
+3.1,Drainage,74,Engineers,13.69
+1.4,Garbage Collection,57,Heavy Machinery,7.7
+8.0,Water Supply,6,Engineers,14.19
+8.2,Drainage,54,Workers,17.25
+7.8,Garbage Collection,62,Engineers,15.45
+10.0,Garbage Collection,3,Engineers,17.05
+3.0,Garbage Collection,89,Heavy Machinery,14.22
+6.3,Garbage Collection,14,Technicians,9.88
+4.5,Water Supply,92,Heavy Machinery,17.6
+5.3,Garbage Collection,67,Workers,12.39
+6.0,Garbage Collection,59,Workers,14.12
+3.5,Electricity,79,Technicians,11.29
+9.7,Electricity,48,Workers,17.69
+7.1,Road Repair,69,Workers,19.19
+9.2,Electricity,67,Engineers,24.21
+4.1,Road Repair,98,Technicians,18.26
+7.6,Garbage Collection,88,Heavy Machinery,20.07
+8.2,Garbage Collection,40,Workers,13.02
+2.4,Drainage,13,Technicians,6.3
+8.5,Water Supply,89,Heavy Machinery,19.34
+8.9,Electricity,45,Workers,18.79
+8.8,Electricity,31,Heavy Machinery,20.42
+4.0,Electricity,30,Technicians,9.79
+9.2,Drainage,82,Engineers,24.74
+5.6,Garbage Collection,39,Heavy Machinery,15.15
+2.7,Drainage,13,Engineers,11.08
+6.7,Drainage,95,Heavy Machinery,21.89
+4.4,Road Repair,64,Engineers,20.79
+2.0,Road Repair,30,Engineers,12.93
+1.2,Garbage Collection,96,Technicians,5.9
+2.6,Drainage,37,Workers,10.96
+1.9,Electricity,68,Technicians,9.29
+9.5,Garbage Collection,64,Workers,16.2
+7.4,Water Supply,22,Workers,11.73
+1.5,Garbage Collection,82,Heavy Machinery,14.04
+8.8,Drainage,64,Workers,18.23
+6.8,Water Supply,52,Engineers,19.62
+7.8,Water Supply,7,Engineers,17.32
+3.3,Drainage,87,Workers,11.39
+5.0,Electricity,46,Heavy Machinery,17.16
+1.9,Water Supply,39,Workers,4.7
+5.7,Road Repair,29,Engineers,15.96
+1.7,Garbage Collection,78,Workers,7.87
+3.1,Drainage,75,Heavy Machinery,14.96
+9.5,Electricity,80,Heavy Machinery,21.96
+8.7,Water Supply,84,Heavy Machinery,18.2
+9.9,Road Repair,1,Engineers,21.52
+3.9,Garbage Collection,38,Technicians,6.33
+1.3,Electricity,25,Heavy Machinery,7.86
+7.4,Water Supply,18,Technicians,11.84
+9.7,Road Repair,46,Engineers,27.08
+2.8,Water Supply,93,Technicians,10.27
+8.6,Electricity,71,Technicians,19.9
+6.6,Electricity,64,Engineers,19.13
+9.7,Drainage,20,Workers,18.04
+8.2,Drainage,25,Workers,13.7
+6.0,Drainage,48,Workers,15.61
+5.4,Electricity,63,Workers,10.6
+6.3,Garbage Collection,72,Heavy Machinery,19.36
+3.8,Electricity,77,Workers,11.31
+7.1,Water Supply,82,Heavy Machinery,16.39
+5.3,Water Supply,95,Technicians,14.5
+7.8,Road Repair,41,Heavy Machinery,25.3
+1.4,Road Repair,86,Workers,10.16
+1.9,Water Supply,46,Engineers,9.02
+2.3,Electricity,80,Engineers,9.5
+4.1,Electricity,40,Heavy Machinery,13.97
+1.1,Garbage Collection,97,Heavy Machinery,8.75
+4.2,Garbage Collection,33,Workers,8.03
+8.4,Electricity,26,Heavy Machinery,17.9
+6.1,Garbage Collection,46,Heavy Machinery,14.89
+7.2,Electricity,15,Technicians,12.56
+1.9,Garbage Collection,75,Engineers,8.71
+2.1,Road Repair,6,Engineers,14.85
+6.5,Water Supply,41,Engineers,17.57
+7.4,Drainage,8,Engineers,17.79
+8.1,Drainage,7,Heavy Machinery,20.54
+6.9,Electricity,80,Engineers,21.98
+5.1,Garbage Collection,3,Heavy Machinery,12.2
+1.4,Garbage Collection,60,Workers,4.36
+1.5,Water Supply,87,Technicians,7.01
+6.9,Road Repair,25,Heavy Machinery,19.96
+9.8,Garbage Collection,45,Heavy Machinery,21.8
+2.6,Water Supply,53,Heavy Machinery,10.5
+6.0,Electricity,18,Workers,16.18
+6.9,Electricity,37,Technicians,11.94
+7.1,Garbage Collection,93,Engineers,19.43
+4.8,Road Repair,79,Engineers,18.64
+8.8,Garbage Collection,31,Workers,11.41
+4.7,Water Supply,24,Heavy Machinery,8.52
+4.3,Drainage,20,Heavy Machinery,12.65
+5.5,Electricity,50,Technicians,13.2
+4.9,Water Supply,98,Workers,14.34
+5.4,Water Supply,66,Technicians,14.03
+6.9,Electricity,58,Workers,16.13
+9.2,Road Repair,12,Technicians,18.06
+8.5,Water Supply,97,Engineers,16.03
+2.2,Road Repair,8,Technicians,12.01
+6.7,Garbage Collection,14,Engineers,10.67
+9.7,Drainage,37,Technicians,19.35
+3.2,Drainage,60,Heavy Machinery,17.15
+4.6,Garbage Collection,14,Workers,3.13
+6.3,Road Repair,70,Engineers,21.42
+6.9,Drainage,89,Engineers,18.21
+8.0,Water Supply,56,Engineers,20.12
+4.6,Drainage,23,Engineers,10.94
+1.7,Garbage Collection,14,Technicians,2.71
+4.0,Drainage,93,Workers,15.64
+4.9,Electricity,20,Heavy Machinery,13.36
+6.3,Garbage Collection,76,Technicians,11.57
+2.5,Electricity,37,Heavy Machinery,12.64
+4.2,Garbage Collection,76,Engineers,15.53
+8.3,Electricity,28,Workers,15.67
+8.8,Electricity,6,Engineers,17.98
+3.4,Water Supply,2,Technicians,4.81
+2.1,Water Supply,37,Technicians,4.74
+9.4,Garbage Collection,69,Engineers,18.48
+1.9,Drainage,51,Workers,10.23
+5.1,Drainage,43,Workers,13.49
+5.4,Water Supply,44,Heavy Machinery,12.17
+2.2,Water Supply,52,Technicians,6.08
+7.3,Drainage,8,Technicians,13.1
+8.8,Water Supply,86,Technicians,21.33
+3.3,Water Supply,65,Engineers,11.14
+6.6,Water Supply,8,Heavy Machinery,18.31
+8.8,Water Supply,76,Engineers,20.4
+9.3,Drainage,1,Technicians,16.48
